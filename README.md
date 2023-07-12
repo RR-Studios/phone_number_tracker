@@ -19,7 +19,7 @@ You also need to go to this website for API. You need to create an account. Afte
       ![image](https://github.com/CodeAndDevlop/phone_number_tracker/assets/110615814/755df1fb-479a-4b94-b529-62d5dfe3de94)
 
   website link: https://opencagedata.com/
-    After creating the API you need to go in the "main.py" file and find "key="paste your api key here""
+    After creating the API you need to go in the "main.py" file and find " key='paste your api key here' "
 
 You need to enter the phone number in the file named "myphone.py" which you need to track
   here is an image of myphone.py in double quotes you need to enter the phone number
