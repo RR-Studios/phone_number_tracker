@@ -14,6 +14,13 @@ Before running the main.py you need to install some dependencies.
 
 YOU ARE HALFWAY THERE
 
+You also need to go to this website for API. You need to create an account. After creating the account, it will take you to the dashboard of your account, but you need to go to Geocoding API.
+  here is an image
+      ![image](https://github.com/CodeAndDevlop/phone_number_tracker/assets/110615814/755df1fb-479a-4b94-b529-62d5dfe3de94)
+
+  website link: https://opencagedata.com/
+    
+
 You need to enter the phone number in the file named "myphone.py" which you need to track
   here is an image of myphone.py in double quotes you need to enter the phone number
     ![image](https://github.com/CodeAndDevlop/phone_number_tracker/assets/110615814/6f80342d-d5bc-4d0a-8006-6721bab3d0fe)
